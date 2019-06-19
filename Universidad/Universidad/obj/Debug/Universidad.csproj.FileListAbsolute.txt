@@ -1,0 +1,14 @@
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\bin\Debug\Universidad.exe.config
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\bin\Debug\Universidad.exe
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\bin\Debug\Universidad.pdb
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.csprojAssemblyReference.cache
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.csproj.CoreCompileInputs.cache
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.exe
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.pdb
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.VentanaPrincipal.resources
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.csproj.GenerateResource.cache
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.Properties.Resources.resources
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.VentanaAlumnado.resources
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.VentanaProfesores.resources
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.VentanaCalificaciones.resources
+D:\Diego\Facultad\2019\Lab de Programacion III\Programa para entregar\Universidad\Universidad\obj\Debug\Universidad.VentanaAulas.resources
